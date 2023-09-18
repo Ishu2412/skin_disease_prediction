@@ -4,3 +4,6 @@ numpy
 fastapi
 uvicorn
 scikit-image
+requests
+lxml
+gunicorn

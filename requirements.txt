@@ -1,4 +1,4 @@
-/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+--upgrade pip
 tensorflow
 opencv-python
 numpy
